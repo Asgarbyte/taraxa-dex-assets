@@ -16,7 +16,7 @@ The DEX reads:
 
 ```text
 
-https://raw.githubusercontent.com/Asgarbyte/taraxa-dex-assets/main/assets.json
+https://raw.githubusercontent.com/Asgarbyte/taraxa-dex-assets/master/assets.json
 
 
 
