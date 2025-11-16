@@ -1,0 +1,37 @@
+{
+  "name": "Volsungar Taraxa Token List",
+  "logoURI": "https://dex.taraxa.nu/icon96.png",
+  "timestamp": "2025-11-16T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["taraxa", "volsungar", "dex", "volswap"],
+  "tokens": [
+    {
+      "chainId": 841,
+      "address": "0x312E8f32bFF06015f322603C6623B230e897ea41",
+      "symbol": "WTARA",
+      "name": "Wrapped TARA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Asgarbyte/taraxa-dex-assets/main/assets/0x312E8f32bFF06015f322603C6623B230e897ea41/logo.png"
+    },
+    {
+      "chainId": 841,
+      "address": "0xF9c40409827c21d03ba9676Da8D00206E041F4E6",
+      "symbol": "VOLS",
+      "name": "Volsungar",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Asgarbyte/taraxa-dex-assets/main/assets/0xF9c40409827c21d03ba9676Da8D00206E041F4E6/logo.png"
+    },
+    {
+      "chainId": 841,
+      "address": "0x69D411CbF6dBaD54Bfe36f81d0a39922625bC78c",
+      "symbol": "USDT",
+      "name": "Tether USD (Taraxa)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Asgarbyte/taraxa-dex-assets/main/assets/0x69D411CbF6dBaD54Bfe36f81d0a39922625bC78c/logo.png"
+    }
+  ]
+}
